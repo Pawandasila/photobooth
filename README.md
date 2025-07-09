@@ -20,15 +20,6 @@ A high-fidelity Next.js-based PhotoBooth app that lets users capture selfies, ap
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add your screenshots here!_
-
-| Live Camera | Filter Selection | Collage Strip |
-|:-----------:|:---------------:|:-------------:|
-| ![camera](public/placeholder.jpg) | ![filters](public/placeholder.jpg) | ![strip](public/placeholder.jpg) |
-
----
 
 ## 🛠️ Tech Stack
 
