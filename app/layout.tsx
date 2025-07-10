@@ -6,10 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "College Wishlist PhotoBooth",
+  title: "PhotoBooth App | collect your memories",
   description: "Interactive photo booth application with vintage filters and effects",
-  authors: [{ name: "Pawan Dasila" }],
-  generator: 'v0.dev'
+  authors: [{ name: "Pawan Dasila" }]
 }
 
 export default function RootLayout({
